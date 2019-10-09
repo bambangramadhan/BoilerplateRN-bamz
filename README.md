@@ -1,2 +1,1 @@
 # BoilerplateRN-bamz
-# BoilerplateRN-bamz
